@@ -1,0 +1,6 @@
+Rencana project
+
+-website sederhana dengan html dan css
+-website Portfolio
+-penggunaan javascript pada website
+-website yang menggunakan backend

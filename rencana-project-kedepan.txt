@@ -7,3 +7,4 @@ Rencana project
   *responsive navigasi
 -website yang menggunakan backend
   *php atau node.js
+-membuat project dengan python

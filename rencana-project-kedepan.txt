@@ -5,6 +5,8 @@ Rencana project
 -penggunaan javascript pada website
   *responsive navigasi
   *menggunakan react
+  *visualisasi website
 -website yang menggunakan backend
   *php atau node.js
--belajar python
+-membuat project dengan python
+

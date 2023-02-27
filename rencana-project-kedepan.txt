@@ -2,8 +2,9 @@ Rencana project
 
 -website sederhana dengan html dan css
 -website Portfolio
--website responsive minimal dengan html dan css
 -penggunaan javascript pada website
   *responsive navigasi
+  *menggunakan react
 -website yang menggunakan backend
   *php atau node.js
+-belajar python

@@ -5,6 +5,7 @@ Rencana project
 -website responsive minimal dengan html dan css
 -penggunaan javascript pada website
   *responsive navigasi
+  *visualisasi website
 -website yang menggunakan backend
   *php atau node.js
 -membuat project dengan python
